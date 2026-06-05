@@ -64,23 +64,6 @@ workflow automation, and cross-platform expansion to iOS.
 - **BSc · Electrical & Computers Engineering** — Universidade Nova de Lisboa,
   Portugal (2006–2010) · Final 14/20
 
-## Tech
-
-Plain **HTML + CSS** (no build step, no dependencies). Fonts via Google Fonts
-(IBM Plex Sans/Mono); a small vanilla-JS scroll-spy highlights the active nav
-section. SEO-ready with Open Graph, Twitter Card, and JSON-LD `ProfilePage`
-metadata.
-
-## Run locally
-
-```bash
-# any static server works, e.g.
-python3 -m http.server 8000
-# then open http://localhost:8000
-```
-
-Or just open `index.html` in a browser.
-
 ## Contact
 
 - ✉️ jm.melo26@gmail.com
