@@ -2,48 +2,34 @@
 
 > Technical Product Owner at Aptoide, bridging software architecture and product strategy.
 
-A single-page personal portfolio site, published with **GitHub Pages** at
+A single-page personal portfolio site, published with **GitHub Pages** at 
 **[joaommmelo.github.io](https://joaommmelo.github.io/)**.
 
 ---
 
 ## About
 
-I'm a Technical Product Owner who bridges complex software architecture and
-market-facing product strategy. Over **7+ years** I've owned the **Aptoide
-Connect** ecosystem — first architecting its codebase, then directing its
-engineering standards, and now driving its product vision.
+I am a **technical product owner** who bridges the gap between complex software architecture and market-facing product strategy. Combining a robust computer engineering background with a **product-first mindset**, I've spent over **7+ years** owning the **Aptoide Connect B2B ecosystem** — transitioning from architecting its first lines of code as an engineer to directing its global standards and driving its core product vision to support **100k+ active ecosystem users**.
 
-My approach to innovation (especially AI) is *fiercely pragmatic*: rapid MVPs to
-validate real trends, with strict technical guardrails so everything scales
-securely. No unscalable, low-quality features just because they ship fast.
+My approach to product innovation, particularly AI and LLMs, is **fiercely pragmatic**. I leverage rapid MVP engineering to quickly validate genuine market trends, but enforce **strict technical guardrails** to ensure everything scales securely. **We do not ship unscalable, low-quality features just because they are fast to build**.
 
 ## Aptoide Connect
 
-A two-sided, cross-store app distribution & monetization platform built from
-scratch:
+A two-sided, cross-store B2B app distribution & monetization platform built from scratch:
 
-- **For developers** — a console to submit & manage app lifecycles, integrate
-  billing SDKs, and track distribution/monetization metrics.
-- **For app stores** — a platform to control, monitor, and optimize the
-  monetization and distribution streams fed by the catalog.
+- **For developers** — a centralized platform to submit & manage app lifecycles, integrate billing SDKs, manage pricing, launch marketing initiatives, and track distribution/monetization metrics across multiple channels.
+- **For app stores** — a platform to control, monitor, and optimize the monetization and distribution streams fed by the catalog.
 
 **Stack:** Angular · Node.js · Express.js · PostgreSQL · Redis
 
-Highlights as Product Owner: market-driven discovery at international events,
-fast adaptation to shifting app-store regulation, pragmatic AI/LLM integration,
-workflow automation, and cross-platform expansion to iOS.
+**Highlights as Product Owner:** Market-driven discovery at international events, fast adaptation to shifting alternative app-store regulation, pragmatic AI/LLM integration, workflow automation, and cross-platform infrastructure expansion to iOS.
 
 ## Manifesto
 
-1. **Direct feedback over hedging** — address weak strategy directly; adapt
-   instantly when proven wrong.
-2. **Scalability to capitalize** — scalability is a commercial requirement, not
-   a vanity metric.
-3. **Compounding moats only** — build proprietary data loops, network effects,
-   and sticky integrations, not commodity UI.
-4. **Ruthless measurement** — define the moving metric *before* writing code;
-   review at Day 30 and Day 90.
+1. **Direct feedback over hedging** — address weak strategy directly to save time; *there is no ego involved*.
+2. **Scalability to capitalize** — scalability is a *commercial requirement*, not a technical vanity metric.
+3. **Compounding moats only** — build *proprietary data loops, network effects, and sticky B2B integrations*, not commodity UI.
+4. **Ruthless measurement** — *deployment is not success*. Define the moving metric before writing code; audit at Day 30 and Day 90.
 
 ## Experience
 
@@ -57,12 +43,9 @@ workflow automation, and cross-platform expansion to iOS.
 
 ## Education
 
-- **MSc · Information & Telecommunications Technologies** — Technical University
-  of Cartagena, Spain (2011–2012) · Final 9/10, Thesis 10/10
-- **Erasmus · Electrical & Computer Engineering** — Tampere University of
-  Technology, Finland (2010–2011)
-- **BSc · Electrical & Computers Engineering** — Universidade Nova de Lisboa,
-  Portugal (2006–2010) · Final 14/20
+- **MSc · Information & Telecommunications Technologies** — Technical University of Cartagena, Spain (2011–2012) · Final Grade 9/10, Thesis 10/10
+- **Erasmus · Electrical & Computer Engineering** — Tampere University of Technology, Finland (2010–2011)
+- **BSc · Electrical & Computers Engineering** — Universidade Nova de Lisboa, Portugal (2006–2010) · Final Grade 14/20
 
 ## Contact
 
