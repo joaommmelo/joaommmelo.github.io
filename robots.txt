@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://joao-miguel-melo.github.io/sitemap.xml
+Sitemap: https://joaommmelo.github.io/sitemap.xml
